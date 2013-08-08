@@ -1,4 +1,4 @@
 Psyco-Theme
 ===========
 
-This is Themeof Psyco
+This is Theme of Psyco
